@@ -12,12 +12,6 @@ public class Main {
 
         Map<String, Integer> m = new SimpleMap<>();
 
-//        while (sc.hasNext()) {
-//            str = sc.next();
-//            int v = m.get(str);
-//            m.put(str, v);
-//        }
-//        m.print();
 
         while (sc.hasNext()) {
             str = sc.next();
